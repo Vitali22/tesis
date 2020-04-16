@@ -1,0 +1,7 @@
+Tareas:
+
+Obtener parámetros para para que MEGA de la cadena Newick apropiada y que corresponda a lo que se está esperando
+
+Y dar explicación a los siguientes pasos metodologicos
+
+(presentación diapositiva 4)
