@@ -1,0 +1,10 @@
+Trabajar en documentar 
+En las diapositivas meter como se resolvió lo de los parámetros
+comprobar que tanto como manual y por comandos sean los mismos
+
+Para crear los archivos .mao se tiene que poner la interface en Prototype
+Opción Analysis
+Phylogeny
+Seleccionamos el método que deseamos, y se construye el archivo .mao
+
+megacc -a infer_NJ_distances.mao -d test.meg -o test _NJ
