@@ -1,0 +1,10 @@
+Liga de distancia de Robinson-Foulds
+
+https://github.com/ddarriba/pll-modul
+
+es
+2017A program to compute the soft Robinson–Foulds distance ...
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5374702/
+
+https://www.researchgate.net/figure/Computing-normalized-Robinson-Foulds-distances_fig1_220740167
+
