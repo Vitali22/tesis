@@ -1,0 +1,37 @@
+Diapositiva 1
+-Implementación de una metodología para el analisis de árboles filogenomicos basados en los mejores aciertos bidireccionales 
+
+
+Diapositiva 2
+-Cambiar el titulo de la presentación a la parte de arriba 
+-Quitar "El problema de invesitgación consiste en implementar una metodología que analiza una una suce"...
+-Cambiar la palabra e-value por "e-valores"
+-Cambiar proteinas de organismos en estudio, <----cambiar coma por punto.
+-Poner: "La metodología se implementa una distancia que nos permite hallar un árbol... continúa en filogenómico límite
+-Se utilizará la versión x.x.x.x.x del software mega para hacer la interface del algoritmo que procesa los hits bidireccionales y este software del cual se mandará los 3 métodos de construcción para construir el árbol filogenomico
+-A través de la cadena newick obtenida desde el software mega se procede a calcular la distancia entre árboles filogenomicos
+
+Diapositiva 3
+Objetivo General
+-Implementar una metodologia que analiza una suce...
+Objetivo Especifico
+-Desarrollar una interface correcta(que ez correcta) entre el programa que procesa los hits bidireccionales y mega software para la ejecución de algoritmos para sacar el árbol filogenomico y su cadena Newick
+
+Diapositiva 4
+-Cambiar primer y segundo punto uno por otro (De lugar)
+-poner acentos del punto 3 (Son 2)
+-Poner a todos los insisos un punto final.
+-Númerar los puntos metodologicos
+
+Diapositiva de obtención de parámetros
+-cambiar nombre
+-Poner los pasos que se realizaron para 
+
+Diseño e implementación
+-Poner el algoritmo de Robinson Foulds
+
+Diapositiva de experimentación
+-Poner que se implementó una interface correcta y se revisó que fueran los parámetros correctos y se genera la cadena newick de la correspondiente cadena newick
+
+diapositiva conclusiones
+ completar que son los 3 tippos 
