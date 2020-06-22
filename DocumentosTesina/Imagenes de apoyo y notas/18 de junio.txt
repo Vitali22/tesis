@@ -1,0 +1,10 @@
+Encontrar a pensar como voy a meter una cadena newick
+
+e ir encontrando ramas
+
+ir a la parte que tengo al lado Izquierdo
+checkar si en el árbol izq que no están en uno pero si en otro
+sumar las cantidades que se hayan encontrado
+
+ir a la rama que sigue
+ 
